@@ -51,3 +51,4 @@ brew cask install $PACKAGE_NAME
 - 开发环境
   - Homebrew
   - Flutter
+  - SF Mono 字体
