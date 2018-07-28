@@ -44,9 +44,6 @@
 - Xvast
 - 微信开发者工具
 - ~~Parrellels Desktop~~
-
-### 开发环境
-
-- Flutter
-- Python 3
-  - Anaconda
+- 开发环境
+  - Homebrew
+  - Flutter
