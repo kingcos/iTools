@@ -10,7 +10,15 @@
 - Window Tidy
 - Xcode
 
-### brew cask
+### Homebrew
+
+- Go
+
+### Homebrew Cask
+
+```
+brew cask install $PACKAGE_NAME
+```
 
 - Alfred - 授权
 - Charles - 授权
@@ -27,10 +35,6 @@
 - Sketch - 授权
 - Visual Studio Code
 - 网易云音乐
-
-### brew install
-
-- Go
 
 ### 手动
 
