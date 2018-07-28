@@ -14,6 +14,9 @@
   - PDF Expert
   - Shadowrocket
   - VNC Viewer
+- **社交**
+  - QQ
+  - 微信
 - **学习**
   - Coursera
   - iTunes U 
@@ -34,6 +37,3 @@
   - 斗鱼
   - 库乐队 
   - 网易云音乐
-- **社交**
-  - QQ
-  - 微信
