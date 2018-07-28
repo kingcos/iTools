@@ -4,10 +4,8 @@
 
 ### App Store
 
-> 以下的软件均在 App Store 上架，需手动下载。
+> 以下的软件均在 App Store 上架，考虑到安全原因，优先选择在 App Store 上架的版本，但需手动下载。
 
-- *Realm Browser*
-- *SQLPro for SQLite*
 - The Unarchiver
 - Window Tidy
 - Xcode
@@ -15,16 +13,24 @@
 ### brew cask
 
 - Alfred - 授权
+- Charles - 授权
 - Chrome
+- GitHub Desktop
+- IINA
+- Intellij IDEA - 授权
+- iStat Menus 6 - 授权
 - iTerm2
+- MacDown
+- OBS
+- Postman
+- Sequel Pro
 - Sketch - 授权
 - Visual Studio Code
-- IINA
-- iStat Menus 6 - 授权
-- MacDown
-- GitHub Desktop
-- Postman
 - 网易云音乐
+
+### brew install
+
+- Go
 
 ### 手动
 
@@ -36,11 +42,11 @@
 - ShadowsocksX-NG-R8
 - Xcode-beta
 - Xvast
+- 微信开发者工具
 - ~~Parrellels Desktop~~
 
 ### 开发环境
 
-- Python 3
-- Java 8/9/10
-- Go
 - Flutter
+- Python 3
+  - Anaconda
