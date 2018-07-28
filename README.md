@@ -1,6 +1,6 @@
 # EZconfigs
 
-EZconfigs are configs for my E-devices, such as Mac, iPhone, Raspberry PI, etc.
+EZconfigs are configs for my personal E-devices, such as Mac, iPhone, Raspberry PI, etc.
 
 ## Devices List
 
