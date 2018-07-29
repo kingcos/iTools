@@ -45,6 +45,7 @@ brew cask install $PACKAGE_NAME
 - iTerm2
   - Config JSON
   - oh-my-zsh
+    - ~/.zsh_rc
 - MacDown
  -  Preferences - Editor - Font
 - Postman
