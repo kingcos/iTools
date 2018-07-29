@@ -16,5 +16,6 @@
 - APKPure
 - BifrostV
 - Chrome
-- [Google Apps](https://wiki.lineageos.org/gapps.html)
+- [~~Google Apps~~](https://wiki.lineageos.org/gapps.html)
+- Twitter
 - 酷安
