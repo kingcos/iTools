@@ -12,6 +12,10 @@
 
 ### Homebrew
 
+```
+brew install $PACKAGE_NAME
+```
+
 - Go
 
 ### Homebrew Cask
@@ -21,7 +25,6 @@ brew cask install $PACKAGE_NAME
 ```
 
 - Alfred - 授权
-- Charles - 授权
 - Chrome
 - GitHub Desktop
 - IINA
@@ -29,12 +32,13 @@ brew cask install $PACKAGE_NAME
 - iStat Menus 6 - 授权
 - iTerm2
 - MacDown
-- OBS
 - Postman
 - Sequel Pro
 - Sketch - 授权
 - Visual Studio Code
 - 网易云音乐
+- ~~Charles - 授权~~
+- ~~OBS~~
 
 ### 手动
 
