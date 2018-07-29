@@ -34,7 +34,7 @@ if [[ $brew_version =~ "Homebrew" && "$cask_version" =~ "Homebrew-Cask" ]]; then
   installAndCheck "google-chrome" "Chrome"
   installAndCheck "github" "GitHub Desktop"
   installAndCheck "iina" "IINA"
-  installAndCheck "intellij-idea" "IntelliJ IDEA"
+  # installAndCheck "intellij-idea" "IntelliJ IDEA"
   installAndCheck "istat-menus" "iStat Menus"
   installAndCheck "iterm2" "iTerm"
   installAndCheck "macdown" "MacDown"
