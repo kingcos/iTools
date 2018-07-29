@@ -8,7 +8,12 @@
 
 - The Unarchiver
 - Window Tidy
+  - Preferences - Layouts
+  - Preferences - Launch at Login
 - Xcode
+  - Preferences - Accounts
+  - Preferences - Font & Colors - Midnight
+  - [XVim 2](https://github.com/XVimProject/XVim2)
 
 ### Homebrew
 
@@ -16,6 +21,7 @@
 brew install $PACKAGE_NAME
 ```
 
+- CocoaPods
 - Go
 
 ### Homebrew Cask
@@ -25,19 +31,33 @@ brew cask install $PACKAGE_NAME
 ```
 
 - Alfred - 授权
+  - General - Hotkey
+  - Appearance - Alfred macOS Dark
 - Chrome
 - GitHub Desktop
+  - Preferences - Accounts
+  - Preferences - Git
+  - Preferences - Appearance - Dark
+  - Preferences - Advanced - Editor: VS Code; Shell: iTerm 2
 - IINA
-- IntelliJ IDEA - 授权
 - iStat Menus 6 - 授权
+  - 选择 CPU 状态 + 网速
 - iTerm2
+  - Config JSON
+  - oh-my-zsh
 - MacDown
+ -  Preferences - Editor - Font
 - Postman
 - Sequel Pro
 - Sketch - 授权
 - Visual Studio Code
+  - Go
+  - Python
 - 网易云音乐
+  - Login
 - ~~Charles - 授权~~
+- ~~IntelliJ IDEA - 授权~~
+  - ~~[Idea Vim](https://plugins.jetbrains.com/plugin/164-ideavim)~~
 - ~~OBS~~
 
 ### 手动
@@ -50,9 +70,9 @@ brew cask install $PACKAGE_NAME
 - ShadowsocksX-NG-R8
 - Xcode-beta
 - Xvast
-- 微信开发者工具
 - ~~Parrellels Desktop~~
+- ~~微信开发者工具~~
 - 开发环境
   - Homebrew
   - Flutter
-  - SF Mono 字体
+  - SF Mono
