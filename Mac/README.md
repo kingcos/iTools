@@ -25,7 +25,7 @@ brew cask install $PACKAGE_NAME
 - Chrome
 - GitHub Desktop
 - IINA
-- Intellij IDEA - 授权
+- IntelliJ IDEA - 授权
 - iStat Menus 6 - 授权
 - iTerm2
 - MacDown
