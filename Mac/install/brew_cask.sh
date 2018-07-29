@@ -46,7 +46,7 @@ if [[ $brew_version =~ "Homebrew" && "$cask_version" =~ "Homebrew-Cask" ]]; then
   installAndCheck "neteasemusic" "NeteaseMusic"
 
   # Clean up
-#   brew cask cleanup
+  brew cask cleanup
 else
   echo "⚠️  Homebrew or Homebrew Cask is NOT ready, please check it!"
 fi
