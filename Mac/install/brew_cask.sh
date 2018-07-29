@@ -30,7 +30,7 @@ function installAndCheck() {
 
 if [[ $brew_version =~ "Homebrew" && "$cask_version" =~ "Homebrew-Cask" ]]; then
   installAndCheck "alfred" "Alfred"
-  installAndCheck "charles" "Charles"
+  # installAndCheck "charles" "Charles"
   installAndCheck "google-chrome" "Chrome"
   installAndCheck "github" "GitHub Desktop"
   installAndCheck "iina" "IINA"
@@ -38,7 +38,7 @@ if [[ $brew_version =~ "Homebrew" && "$cask_version" =~ "Homebrew-Cask" ]]; then
   installAndCheck "istat-menus" "iStat Menus"
   installAndCheck "iterm2" "iTerm"
   installAndCheck "macdown" "MacDown"
-  installAndCheck "obs" "OBS"
+  # installAndCheck "obs" "OBS"
   installAndCheck "postman" "Postman"
   installAndCheck "sequel-pro" "Sequel Pro"
   installAndCheck "sketch" "Sketch"
