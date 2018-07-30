@@ -47,7 +47,7 @@ brew cask install $PACKAGE_NAME
   - oh-my-zsh
     - ~/.zsh_rc
 - MacDown
- -  Preferences - Editor - Font
+  - Preferences - Editor - Font
 - Postman
 - Sequel Pro
 - Sketch - 授权
