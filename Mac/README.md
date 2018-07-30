@@ -67,6 +67,7 @@ brew cask install $PACKAGE_NAME
 > 暂时手动，后续会根据情况编写脚本。
 
 - 1Password 6 - 授权
+  - https://app-updates.agilebits.com/download/OPM4
 - CleanMyMac 3 中文版 - 授权
 - ShadowsocksX-NG-R8
 - Xcode-beta
