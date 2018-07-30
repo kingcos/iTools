@@ -22,6 +22,7 @@ brew install $PACKAGE_NAME
 ```
 
 - CocoaPods
+- Conda
 - Go
 
 ### Homebrew Cask
@@ -65,7 +66,6 @@ brew cask install $PACKAGE_NAME
 
 > 暂时手动，后续会根据情况编写脚本。
 
-- Anaconda - 注意 Python 版本
 - 1Password 6 - 授权
 - CleanMyMac 3 中文版 - 授权
 - ShadowsocksX-NG-R8
