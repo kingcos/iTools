@@ -29,6 +29,7 @@ function installAndCheck() {
 }
 
 if [[ $brew_version =~ "Homebrew" && "$cask_version" =~ "Homebrew-Cask" ]]; then
+  echo "✅ Checking finished, start to brew cask install..."
   installAndCheck "alfred" "Alfred"
   # installAndCheck "charles" "Charles"
   installAndCheck "google-chrome" "Chrome"
