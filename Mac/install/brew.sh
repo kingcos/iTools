@@ -24,6 +24,7 @@ if [[ $brew_version =~ "Homebrew" ]]; then
   echo "✅ Checking finished, start to brew install..."
   installAndCheck "Go" "go version"
   installAndCheck "CocoaPods" "pod --version"
+  installAndCheck "Zsh" "zsh --version"
 else
   echo "⚠️  Homebrew is NOT ready, please check it!"
 fi
