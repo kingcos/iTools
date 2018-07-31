@@ -9,7 +9,7 @@ brew_version=`brew --version`
 # Install with Homebrew, and check results
 function installAndCheck() {
   # brew install $PACKAGE_NAME
-  # brew install $1
+  brew install $1
 
   # Check installation
   version_check_result=`$2`
