@@ -24,6 +24,7 @@ brew install $PACKAGE_NAME
 - CocoaPods
 - Conda
 - Go
+- Zsh
 
 ### Homebrew Cask
 
