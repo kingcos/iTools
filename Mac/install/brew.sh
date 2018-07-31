@@ -21,6 +21,7 @@ function installAndCheck() {
 }
 
 if [[ $brew_version =~ "Homebrew" ]]; then
+  echo "✅ Checking finished, start to `brew install`..."
   installAndCheck "Go" "go version"
   installAndCheck "CocoaPods" "pod --version"
 else
