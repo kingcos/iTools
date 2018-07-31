@@ -39,6 +39,7 @@ if [[ $brew_version =~ "Homebrew" && "$cask_version" =~ "Homebrew-Cask" ]]; then
   installAndCheck "iterm2" "iTerm"
   installAndCheck "macdown" "MacDown"
   # installAndCheck "obs" "OBS"
+  installAndCheck "onedrive" "OneDrive"
   installAndCheck "postman" "Postman"
   installAndCheck "sequel-pro" "Sequel Pro"
   installAndCheck "sketch" "Sketch"
