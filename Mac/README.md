@@ -32,10 +32,10 @@ brew install $PACKAGE_NAME
 brew cask install $PACKAGE_NAME
 ```
 
-- Aria2gui
 - Alfred - 授权
   - General - Hotkey
   - Appearance - Alfred macOS Dark
+- Aria2gui
 - Chrome
 - GitHub Desktop
   - Preferences - Accounts
@@ -43,6 +43,10 @@ brew cask install $PACKAGE_NAME
   - Preferences - Appearance - Dark
   - Preferences - Advanced - Editor: VS Code; Shell: iTerm 2
 - IINA
+- IntelliJ IDEA - 授权
+  - [Idea Vim](https://plugins.jetbrains.com/plugin/164-ideavim)
+  - Flutter
+  - Dart
 - iStat Menus 6 - 授权
   - 选择 CPU 状态 + 网速
 - iTerm2
@@ -61,8 +65,6 @@ brew cask install $PACKAGE_NAME
 - 网易云音乐
   - Login
 - ~~Charles - 授权~~
-- ~~IntelliJ IDEA - 授权~~
-  - ~~[Idea Vim](https://plugins.jetbrains.com/plugin/164-ideavim)~~
 - ~~OBS~~
 
 ### 手动
@@ -76,7 +78,7 @@ brew cask install $PACKAGE_NAME
 - Xcode-beta
 - Xvast
 - ~~Parrellels Desktop~~
-- ~~微信开发者工具~~
+- 微信开发者工具
 - 开发环境
   - Homebrew
   - Flutter
