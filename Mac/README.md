@@ -35,7 +35,7 @@ brew cask install $PACKAGE_NAME
 - Alfred - 授权
   - General - Hotkey
   - Appearance - Alfred macOS Dark
-- Aria2gui
+- Aria2Gui
 - Chrome
 - GitHub Desktop
   - Preferences - Accounts
