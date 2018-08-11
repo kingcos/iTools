@@ -31,11 +31,12 @@ function installAndCheck() {
 if [[ $brew_version =~ "Homebrew" && "$cask_version" =~ "Homebrew-Cask" ]]; then
   echo "✅ Checking finished, start to brew cask install..."
   installAndCheck "alfred" "Alfred"
+  installAndCheck "aria2gui" "Aria2Gui"
   # installAndCheck "charles" "Charles"
   installAndCheck "google-chrome" "Chrome"
   installAndCheck "github" "GitHub Desktop"
   installAndCheck "iina" "IINA"
-  # installAndCheck "intellij-idea" "IntelliJ IDEA"
+  installAndCheck "intellij-idea" "IntelliJ IDEA"
   installAndCheck "istat-menus" "iStat Menus"
   installAndCheck "iterm2" "iTerm"
   installAndCheck "macdown" "MacDown"
