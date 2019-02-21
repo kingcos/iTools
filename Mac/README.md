@@ -35,7 +35,6 @@ brew cask install $PACKAGE_NAME
 - Alfred - 授权
   - General - Hotkey
   - Appearance - Alfred macOS Dark
-- Aria2Gui
 - Chrome
 - GitHub Desktop
   - Preferences - Accounts
@@ -55,7 +54,6 @@ brew cask install $PACKAGE_NAME
     - ~/.zsh_rc
 - MacDown
   - Preferences - Editor - Font
-- OneDrive
 - Postman
 - Sequel Pro
 - Sketch - 授权
@@ -77,9 +75,10 @@ brew cask install $PACKAGE_NAME
 - ShadowsocksX-NG-R8
 - Xcode-beta
 - Xvast
-- ~~Parrellels Desktop~~
+- Parrellels Desktop
 - 微信开发者工具
 - 开发环境
   - Homebrew
   - Flutter
   - SF Mono
+- [shell](shell/)

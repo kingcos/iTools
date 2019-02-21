@@ -1,0 +1,5 @@
+# EZconfigs - Mac
+
+## zsh
+
+
