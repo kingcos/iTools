@@ -42,6 +42,7 @@ set PATH /Users/kingcos/Developer/flutter/bin $PATH
 
 # Anaconda
 set PATH /anaconda3/bin $PATH
+source /anaconda3/etc/fish/conf.d/conda.fish
 
 # Socks Proxy
 function proxy
