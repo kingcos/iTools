@@ -46,12 +46,24 @@ source /anaconda3/etc/fish/conf.d/conda.fish
 
 # Socks Proxy
 function proxy
-  export http_proxy=http://127.0.0.1:1087 https_proxy=http://127.0.0.1:1087
+  export http_proxy=http://127.0.0.1:1087
+  export https_proxy=http://127.0.0.1:1087
 end
 
 function unproxy
   set --erase http_proxy
   set --erase https_proxy
+end
+
+# export
+function export
+    if [ $argv ]
+        set var (echo $argv | cut -f1 -d=)
+        set val (echo $argv | cut -f2 -d=)
+        set -g -x $var $val
+    else
+        echo 'export var=value'
+    end
 end
 
 # thefuck
