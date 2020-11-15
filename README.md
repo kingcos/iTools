@@ -12,5 +12,6 @@ Introducing my tools that I use everyday.
 - Phone / Pad
   - [iOS](phone/ios/)
     - iPhone 12 Pro Silver
+    - iPad Pro 9.7
   - [Android](phone/android/)
     - Nut Pro 2s
