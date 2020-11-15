@@ -1,13 +1,16 @@
-# EZconfigs
+# iTools
 
-EZconfigs are configs for my personal E-devices, such as Mac, iPhone,  etc.
+Introducing my tools that I use everyday.
 
-## Devices List
+## Device-List
 
-- [Mac](Mac/)
-  - MacBook Pro 13'
-- [iPhone](iPhone/)
-  - iPhone X
-  - iPad Pro 9.7
-- [Android](/Android)
-  - XiaoMi 5
+- [Computer](computer/)
+  - MacBook Pro 2018 13' with Touch Bar
+  - Mac mini DTK
+  - Hackintosh with i9 (macOS Mojave & Windows 10)
+  - MacBook Pro 2015 15' (Provided by my company)
+- Phone / Pad
+  - [iOS](phone/ios/)
+    - iPhone 12 Pro Silver
+  - [Android](phone/android/)
+    - Nut Pro 2s
